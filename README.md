@@ -1,2 +1,2 @@
 # Portfolio
-View my portfolio [![Here]](https://gowripasumarthy.com/)  
+View my portfolio [here!](https://gowripasumarthy.com/)  
