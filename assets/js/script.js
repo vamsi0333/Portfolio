@@ -59,8 +59,8 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | KIRAN KUMAR U";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            document.title = "Portfolio | GOWRI SANKAR KOUSHIK PASUMARTHY";
+            $("#favicon").attr("href", "assets/images/favicon.jpeg");
         }
         else {
             document.title = "Come Back To Portfolio";
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Machine Learning", "Backend Development", "Python Development", "Android Development", "Web Development"],
+    strings: ["Computer Science","Software Developement","Backend Development", "Web Development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
