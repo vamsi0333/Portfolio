@@ -190,7 +190,7 @@ header .navbar ul li a:hover {
 .home #particles-js {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 40%;
   height: 100%;
   width: 100%;
 }
