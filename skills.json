@@ -68,14 +68,6 @@
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/?size=48&id=74402&format=png&color=000000"
-    },
-    {
-        "name": "Angular",
-        "icon": "https://img.icons8.com/?size=48&id=j9DnICNnlhGk&format=png&color=000000"
-    },
-    {
-        "name": "React",
-        "icon": "https://img.icons8.com/?size=48&id=bzf0DqjXFHIW&format=png&color=000000"
     },  
     {
         "name": "Git",
@@ -92,6 +84,10 @@
     {
         "name": "Azure",
         "icon": "https://img.icons8.com/?size=48&id=81727&format=png&color=000000"
+    },
+    {
+        "name": "Helm",
+        "icon": "https://img.icons8.com/?size=48&id=Oxat3eyErEv9&format=png&color=000000"
     },
     {
         "name": "Jenkins",
@@ -112,6 +108,10 @@
     {
         "name": "Jira",
         "icon": "https://img.icons8.com/?size=48&id=6aZUcUt6WjzU&format=png&color=000000"
+    }  ,
+    {
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/?size=48&id=iGCCE2iEmh2u&format=png&color=000000"
     },
     {
         "name": "Prometheus",
